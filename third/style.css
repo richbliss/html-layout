@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+.row1 {
+    background-color: #d3d2d3;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 100px;
+
+}
+.logo {
+ height: 70px;
+ width: 70px;
+ background-color: #4185de;
+ margin: 5px 0 10px 20px;
+
+}
+.row2 {
+    background-color: white;
+    text-align: left;
+    padding: 40px 40px 50px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    overflow: hidden;
+
+}
+.row3 {
+    background-color: #4185de;
+}
+.row4 {
+    background-color: #47dfba;
+}
+.row5 {
+    background-color: #afe57b;
+}
+
+.row6 {
+    background-color: #f7e31b;
+}
+
+.rowheight {
+    height: 15vh;
+}
