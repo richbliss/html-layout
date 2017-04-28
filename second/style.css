@@ -1,0 +1,47 @@
+body {
+    margin:0;
+}
+
+. {
+ 
+}
+
+.container {
+
+}
+.col-1{
+    background-color: #4a90e2;
+    height: 100vh;
+    width: calc(100% / 3);
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+}
+.col-2{
+    background-color: #50E3C2;
+    height: 100vh;
+    width: calc(100% / 3);
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+}
+.col-3top{
+    background-color: #B8E986;
+    height: 75vh;
+    width: calc(100% / 3);
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+}
+.col-3btm{
+    background-color: #D0021B;
+    height: 25vh;
+    width: calc(100% / 3);
+    display: inline-block;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25vh;
+    color: white;
+
+}
