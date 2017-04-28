@@ -40,8 +40,9 @@ body {
     display: inline-block;
     float: left;
     text-align: center;
-    vertical-align: middle;
+    /* vertical-align: middle; */
     line-height: 25vh;
     color: white;
+    font-size: 25px;
 
 }
